@@ -262,7 +262,7 @@ section.check-rate-btn-area {
     text-align: center;
     content: "";
     position: absolute;
-    background-image: url(../images/shap.png);
+    background-image: url(/wp-content/themes/finconcustom/images/shap.png);
     height: 50px;
     background-repeat: no-repeat;
     background-position: right;
@@ -354,7 +354,7 @@ section.loan-second-services.section-padding {
 /*end of services section*/
 
 section.dream-quote {
-    background-image: url(../images/dreambg.jpg);
+    background-image: url(/wp-content/themes/finconcustom/images/dreambg.jpg);
     position: relative;
     -webkit-background-size: cover;
     background-size: cover;

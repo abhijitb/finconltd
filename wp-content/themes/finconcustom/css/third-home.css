@@ -138,7 +138,7 @@ section.third-services.section-padding {
 /*start counter section*/
 
 section.experience-section.section-padding {
-    background-image: url(../images/dreambg.jpg);
+    background-image: url(/wp-content/themes/finconcustom/images/dreambg.jpg);
     position: relative;
 }
 

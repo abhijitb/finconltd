@@ -52,6 +52,9 @@
 	</div><!-- .site-inner -->
 </div><!-- .site -->
 
-<?php wp_footer(); show_footer(); ?>
+<?php 
+	wp_footer();
+	show_footer();
+?>
 </body>
 </html>

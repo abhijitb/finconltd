@@ -1,0 +1,16 @@
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/active.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/bootstrap.min.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/calculator.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/fontawesome-all.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/gmap.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/isotope.pkgd.min.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/jquery-3.3.1.min.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/jquery-3.3.1.slim.min.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/jquery.loan-calculator.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/jquery.magnific-popup.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/jquery.nice-select.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/jquery-ui.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/menumaker.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/owl.carousel.min.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/popper.min.js');
+wp_enqueue_script( 'custom-js1', get_template_directory_uri() . '/js/slider.js');
